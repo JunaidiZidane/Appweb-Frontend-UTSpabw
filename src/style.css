@@ -1,0 +1,124 @@
+section.jumbotron {
+    padding: 4rem;
+    background-image: url(../Asset/image/banner2.jpg);
+    background-size: 100%;
+    text-align: justify;
+
+}
+
+section.atas {
+    padding: 5rem;
+    background-color: #000000;
+}
+
+h3 {
+    font-family: 'Krona One', sans-serif;
+}
+
+h2 {
+    font-family: 'Antonio', sans-serif;
+}
+
+h5 {
+    font-family: 'Antonio', sans-serif;
+}
+
+h1 {
+    font-family: 'Krona One', sans-serif;
+}
+
+h4 {
+    font-family: 'Krona One', sans-serif;
+}
+
+p#jumbotron {
+    font-family: 'Orelega One', cursive;
+}
+
+button {
+    font-family: 'PT Sans', sans-serif;
+}
+
+a.btn {
+    border-radius: 10px;
+}
+
+a.nav-link {
+    color : white;
+}
+
+footer.jumbotron {
+    padding: 2rem 1rem;
+    background-color: black;
+}
+
+#tiga {
+    color: white;
+}
+
+.iklan1 {
+    width: 100%;
+}
+
+.iklan2 {
+    width: 100%;
+}
+
+.iklan3 {
+    width: 100%;
+}
+
+a {
+    color: red;
+}
+
+span {
+    color: red;
+}
+
+.timeline {
+    width: 98%;
+}
+
+ul.awal {
+	position: relative;
+	display: flex;
+}
+
+ul.awal li {
+	list-style: none;
+}
+
+ul.awal li a {
+	display: inline-block;
+	color: gray;
+	text-decoration: none;
+}
+
+.isikonten p {
+    width: 90%;
+    text-align: justify;
+    font-family: 'Antonio', sans-serif;
+}
+
+.timeline p {
+    text-align: justify;
+}
+
+footer {
+    background-color: #000000;
+}
+
+.isikontenn {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    width: 100%;
+}
+
+.span {
+    color: blue;
+}
+
+.col-sm-4 {
+    margin-top: 2rem;
+}
